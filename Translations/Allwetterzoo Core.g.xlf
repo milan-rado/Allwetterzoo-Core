@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Allwetterzoo Core">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 45687838 - Control 2787087508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Animal sponsorship</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CustomerCardPageExt - Control TierPatenschaftGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 3227695678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>E-mail address and telephone number of the sponsor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Mailadresse und Telefonnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 1906855380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Sponsor (Name, Address)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Pate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 553042756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Sponsor has a sponsor sign</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Pate hat ein Patenschild - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 2369093741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Mentor since</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Pate seit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 3920175873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Donor (Name, Address)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Schenker - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 72077563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Documents sent on</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Unterlagen verschickt am - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2041000341 - Field 1360239930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerTableExt - Field Verlangerung - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
