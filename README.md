@@ -1,4 +1,4 @@
-# Allwetterzoo Core Business Central Development Extension.
+# Allwetterzoo Core Business Central Development Extension
 
 This repository contains an AL (Application Language) extension for Microsoft Dynamics 365 Business Central. The extension includes multilanguage **Table Extension** and **Page Extension**.
 
