@@ -4,13 +4,18 @@ This repository contains an AL (Application Language) extension for Microsoft Dy
 
 ## Table Extension - `50100 CustomerTableExt`
 
-This extension customizes the "Customer" table in Microsoft Dynamics 365 Business Central by adding a new fieds.
+This extension customizes the "Customer" table in Microsoft Dynamics 365 Business Central by adding a new fieds. PLZ, Ort, Paten eMail, and Pate Telefon fieds are with validation logic.
 
 ### Fields:
-- **Pate (Text[200])**
+- **Paten Name (Text[100])**
+- **Paten Anschrift (Text[100])**
+- **PLZ (Code[20])**
+- **Ort (Text[30])**
+- **Paten eMail (Text[80])**
+- **Pate Telefon (Text[30])**
+- **Pantenschaft aktiv (Boolean)**
 - **Schenker (Text[200])**
 - **Unterlagen verschickt am (Date)**
-- **Mailadresse und Telefonnummer (Text[100])**
 - **Verlängerung (Boolean)**
 - **Pate seit (Date)**
 - **Pate hat ein Patenschild (Boolean)**
@@ -21,10 +26,15 @@ This extension customizes the "Customer Card" page in Microsoft Dynamics 365 Bus
 ### Layout Modifications
 - **Group Added**: A new group, `TierPatenschaftGroup`, is added to the layout after the "General" group.
 - **Fields Added**: The following fields are added to the new group:
-  - **Pate**
+  - **Paten Name**
+  - **Paten Anschrift**
+  - **PLZ**
+  - **Ort**
+  - **Paten eMail**
+  - **Pate Telefon**
+  - **Pantenschaft aktiv**
   - **Schenker**
   - **Unterlagen verschickt am**
-  - **Mailadresse und Telefonnummer**
   - **Verlangerung**
   - **Pate seit**
   - **Pate hat ein Patenschild**
